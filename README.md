@@ -26,7 +26,7 @@ Frontend desplegado en producción (APAGADO):
 
 ### 🔹 Backend  
 Repositorio:  
-👉 https://github.com/rodritorneos/chatbot-SGSI  
+👉 https://github.com/rodritorneos-code/chatbotSGSI-Backend 
 
 **Tecnologías principales:**
 - FastAPI  
@@ -39,7 +39,7 @@ Repositorio:
 
 ### 🔹 Frontend  
 Repositorio:  
-👉 https://github.com/rodritorneos/frontend-chatbot-SGSI  
+👉 https://github.com/rodritorneos-code/chatbotSGSI-Frontend
 
 **Tecnologías principales:**
 - HTML  
