@@ -22,7 +22,7 @@ Frontend desplegado en producción (APAGADO):
 
 ---
 
-## 🎬 Demo en Video
+## 🎬 Demo en Video (Click a la imagen)
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=VSBb1X3VN8Q&t=1s">
