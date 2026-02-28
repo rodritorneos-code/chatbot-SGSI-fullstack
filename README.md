@@ -25,10 +25,13 @@ Frontend desplegado en producción (APAGADO):
 ## 🎬 Demo en Video
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VSBb1X3VN8Q&t=1s" target="_blank">
+  <a href="https://www.youtube.com/watch?v=VSBb1X3VN8Q&t=1s">
     <img src="assets/demo.jpeg" alt="Ver Demo del Proyecto" width="600"/>
   </a>
 </p>
+
+🔗 También puedes verlo aquí:  
+https://www.youtube.com/watch?v=VSBb1X3VN8Q&t=1s
 
 ---
 
