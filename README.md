@@ -25,7 +25,7 @@ Frontend desplegado en producción (APAGADO):
 ## 🎬 Demo en Video (Click a la imagen)
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VSBb1X3VN8Q&t=1s">
+  <a href="hhttps://youtu.be/vc81aUEVllw">
     <img src="assets/demo.jpeg" alt="Ver Demo del Proyecto" width="600"/>
   </a>
 </p>
@@ -101,7 +101,7 @@ La ilustración del avatar utilizada en el frontend no está incluida dentro de 
 ## 🎨 Créditos
 
 Ilustración del avatar creada por:  
-**Gabo .¿**  
+**Turrón .¿**  
 Twitter: https://x.com/GaboAsies_Bv
 
 Utilizada con permiso del autor.  
